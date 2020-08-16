@@ -1,0 +1,16 @@
+{
+  "name": "basic-parcel-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js  ",
+  "repository": "https://github.com/mrjelveh/basic-parcel-boilerplate.git",
+  "author": "mrjelveh",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.26.10"
+  }
+}
